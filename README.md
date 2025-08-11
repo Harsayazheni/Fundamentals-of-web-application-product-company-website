@@ -173,13 +173,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
-![WhatsApp Image 2023-01-27 at 11 25 29 PM](https://user-images.githubusercontent.com/118708467/215160403-56a9a5ad-f1a7-4165-943a-57c39ff56693.jpeg)
-
-![WhatsApp Image 2023-01-27 at 11 25 32 PM](https://user-images.githubusercontent.com/118708467/215160501-59ee75dd-5f10-4987-84f6-5c41f0ade263.jpeg)
-
-
-![WhatsApp Image 2023-01-27 at 11 25 33 PM](https://user-images.githubusercontent.com/118708467/215160537-86e501b5-69cf-4dd6-ae7e-4073699e11f7.jpeg)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f97bedd4-cde5-4dec-85d6-112593675893" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/87820495-86b3-42c2-8ce2-29bc208a7807" />
 
 ## Result:
 
